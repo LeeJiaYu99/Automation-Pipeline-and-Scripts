@@ -1,0 +1,29 @@
+{
+    "latest_id": 5012,
+    
+    "ftp":
+    {
+        "ip": "10.xx.xx.xx",
+        "user": "ftp@dummy.com",
+        "password": "dummy",
+        "dir": "motion/images"
+    },
+
+    "mail":
+    {
+        "server": "mail.admin.com",
+        "port": 21,
+        "sender": "mail@dummy.com",
+        "sender_name": "admin",
+        "receiver": "client@dummy.com"
+    },
+
+    "database":
+    {
+        "user": "username",
+        "password": "dummy_password",
+        "id": "username_id",
+        "host": "server.dummy.com",
+        "port": 1521
+    }
+}
